@@ -1,4 +1,4 @@
-import Structures as STRUCTURES
+import structures.Structures as STRUCTURES
 
 #https://www.mathsisfun.com/algebra/linear-equations.html
 
